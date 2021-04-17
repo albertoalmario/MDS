@@ -1,0 +1,1 @@
+﻿EXEC mdm.udpSubscriptionViewDeleteByID @ID = 3918,  @DeleteView = 1	
